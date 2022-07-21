@@ -45,7 +45,7 @@ function Contact() {
             <RiMessengerLine className="contact__option-item" />
             <h4>Messenger</h4>
             <h5>Message Me</h5>
-            <a href="/https://m.me/fariakamalsoha/" target="_blank">
+            <a href="https://m.me/fariakamalsoha/" target="_blank">
               Send a Message
             </a>
           </article>
@@ -54,7 +54,7 @@ function Contact() {
             <h4>WhatsApp</h4>
             <h5>Try WhatsApp</h5>
             <a
-              href="/https://web.whatsapp.com/send?phone=+8801745171422&text=message&app_absent=0"
+              href="https://web.whatsapp.com/send?phone=+8801745171422&text=message&app_absent=0"
               target="_blank"
             >
               Send a Message

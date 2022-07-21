@@ -8,34 +8,34 @@ import { IoLogoTwitter } from "react-icons/io";
 function Footer() {
   return (
     <footer>
-      <a href="/#" className="footer__logo">
+      <a href="#" className="footer__logo">
         Faria Kamal
       </a>
 
       <ul className="permalinks">
         <li>
           {" "}
-          <a href="/#">Home</a>
+          <a href="#">Home</a>
         </li>
         <li>
           {" "}
-          <a href="/#">About</a>
+          <a href="#">About</a>
         </li>
         <li>
           {" "}
-          <a href="/#">Experience</a>
+          <a href="#">Experience</a>
         </li>
         <li>
           {" "}
-          <a href="/#">Services</a>
+          <a href="#">Services</a>
         </li>
         <li>
           {" "}
-          <a href="/#">Portfolio</a>
+          <a href="#">Portfolio</a>
         </li>
         <li>
           {" "}
-          <a href="/#">Reference</a>
+          <a href="#">Reference</a>
         </li>
         <li>
           {" "}
@@ -44,13 +44,13 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="/https://facebook.com">
+        <a href="https://facebook.com">
           <FaFacebookF />
         </a>
-        <a href="/https://instagram.com">
+        <a href="https://instagram.com">
           <FiInstagram />
         </a>
-        <a href="/https://twitter.com">
+        <a href="https://twitter.com">
           <IoLogoTwitter />
         </a>
       </div>

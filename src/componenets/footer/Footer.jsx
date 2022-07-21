@@ -39,7 +39,7 @@ function Footer() {
         </li>
         <li>
           {" "}
-          <a href="/#">Contact</a>
+          <a href="#">Contact</a>
         </li>
       </ul>
 

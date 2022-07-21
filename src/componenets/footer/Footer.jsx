@@ -1,5 +1,6 @@
 import React from "react";
 import "./Footer.css";
+import NavBar from "../nav/NavBar";
 
 import { FaFacebookF } from "react-icons/fa";
 import { FiInstagram } from "react-icons/fi";
@@ -11,35 +12,27 @@ function Footer() {
       <a href="#" className="footer__logo">
         Faria Kamal
       </a>
-
       <ul className="permalinks">
         <li>
-          {" "}
           <a href="#">Home</a>
         </li>
         <li>
-          {" "}
-          <a href="#">About</a>
+          <a href="#about">About</a>
         </li>
         <li>
-          {" "}
-          <a href="#">Experience</a>
+          <a href="#experience">Experience</a>
         </li>
         <li>
-          {" "}
-          <a href="#">Services</a>
+          <a href="#services">Services</a>
         </li>
         <li>
-          {" "}
-          <a href="#">Portfolio</a>
+          <a href="#portfolio">Portfolio</a>
         </li>
         <li>
-          {" "}
-          <a href="#">Reference</a>
+          <a href="#references">Reference</a>
         </li>
         <li>
-          {" "}
-          <a href="#">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
 

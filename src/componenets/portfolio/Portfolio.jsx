@@ -21,11 +21,11 @@ function Portfolio() {
           </div>
           <h3>This is a Portfolio Item Title</h3>
           <div className="portfolio__item-cta">
-            <a href="/https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank">
               Github
             </a>
             <a
-              href="/https://dribble.com/Alien_pixels"
+              href="https://dribble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
             >
@@ -40,11 +40,11 @@ function Portfolio() {
           </div>
           <h3>This is a Portfolio Item Title</h3>
           <div className="portfolio__item-cta">
-            <a href="/https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank">
               Github
             </a>
             <a
-              href="/https://dribble.com/Alien_pixels"
+              href="https://dribble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
             >
@@ -59,11 +59,11 @@ function Portfolio() {
           </div>
           <h3>This is a Portfolio Item Title</h3>
           <div className="portfolio__item-cta">
-            <a href="/https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank">
               Github
             </a>
             <a
-              href="/https://dribble.com/Alien_pixels"
+              href="https://dribble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
             >
